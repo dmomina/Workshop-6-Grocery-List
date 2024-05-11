@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: rgb(53, 134, 134);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    border: solid;
+    background-color: rgb(245, 200, 238);
+    display: block;
+    width: max-content;
+    padding: 5px;
+}
+
+h3{
+    margin-top: 5px;
+}
+
+.fruitblock {
+    border: solid;
+    display: inline-block;
+    padding: 10px;
+    padding-top: 5px;
+    margin-right: 50px;
+    background-color: rgb(224, 242, 236);
+}
+
+.vegetableblock {
+    border: solid;
+    display: inline-block;
+    padding: 10px;
+    padding-top: 5px;
+    margin-right: 50px;
+    background-color: rgb(224, 242, 236);
+}
+
+.fvimage {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.image {
+    width: 210px;
+    padding: 4px;
+}
+
+.ullist {
+    padding-left: 0;
+}
